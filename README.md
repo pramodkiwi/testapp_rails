@@ -1,7 +1,7 @@
 Test Rails App
 ==============
 
-(For DigitalOcean Guide)
+([For this DigitalOcean guide](https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma))
 
 This Rails App has been fully configured with Nginx, Puma and Capistrano. This app isn't meant to be used 
 as a starting point for your Application, this is just an example to take help from.
